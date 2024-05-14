@@ -2,7 +2,7 @@
 
 -Olá meu nome é André Ricardo Tortola, sou estudante da escola Ana Cecilia Martins, localizada no estado de São Paulo na cidade de Sorocaba🗺️
 
--estou estudando a {alura}📘
+-estou estudando a [alura](https://www.alura.com.br)📘
 
 -estudando JavaScript📎
   
@@ -10,4 +10,4 @@
 -00001107937796SP@al.educacao.sp.gov.br
 
 
-![](https://tenor.com/pt-BR/view/breakfast-mondays-morning-waffle-gif-6600530809478748642)
+![](https://media1.tenor.com/m/QiUtH4YUcocAAAAC/youre-welcome-pleasure.gif)
