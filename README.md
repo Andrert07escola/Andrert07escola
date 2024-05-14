@@ -1,6 +1,6 @@
 ##Boas Vindas 😆🤑
 
--Olá meu nome é André Ricardo Tortola, sou estudante da escola Ana Cecilia Martins, localizada em Sorocaba🗺️
+-Olá meu nome é André Ricardo Tortola, sou estudante da escola Ana Cecilia Martins, localizada no estado de São Paulo na cidade de Sorocaba🗺️
 
 -estou estudando a alura📘
 
